@@ -1,6 +1,6 @@
-# trylab 快速上手教程
+# clojure 快速上手教程制作中...
 
-## 如何进入 trylab
+## 如何进入 clojure
 
 
 ## 如何使用
